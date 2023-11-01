@@ -3,7 +3,7 @@
 <h2>👨‍💻 My Cybersecurity Projects:</h2>
 
 - <b>Network Analysis</b>
-  - [Network Analysis using Wireshark and Tcpdump](https://github.com/davidsunuwar007/Network-analysis-using-tcpdump-and--Wireshark)
+  - [DOS attack simulation and wireshark analysis](https://github.com/davidsunuwar007/Network-analysis-using-tcpdump-and--Wireshark)
 
 <h2> 🤳 Connect with me:</h2>
 
